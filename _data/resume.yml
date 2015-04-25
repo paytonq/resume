@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://raw.githubusercontent.com/paytonq/paytonq.github.io/master/11156416_902487736438519_7541392032258993640_n(1).jpg?token=AF6nXRCT7tq30B_IOL8NcTzgBkf7-IQ-ks5VOaV-wA%3D%3D"
+photo: "http://paytonq.me/11156416_902487736438519_7541392032258993640_n%281%29.jpg"
 name: "Payton Quinn"
 copy: "Second-year Computer Science student at the University of Washington"
 
