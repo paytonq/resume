@@ -3,7 +3,7 @@ demo: false
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
-W
+
 name: "Payton Quinn"
 copy: "Third-year Computer Science student at the University of Washington"
 
